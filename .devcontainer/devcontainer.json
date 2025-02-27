@@ -14,9 +14,15 @@
       "openFiles": [
         "index.js"
       ]
+    },
+   "vscode": {
+      "extensions": [
+        "GitHub.copilot",
+        "mongodb.mongodb-vscode"
+      ]
     }
-  },
-  "portsAttributes": {
+  },    
+    "portsAttributes": {
     "3000": {
       "label": "Application",
       "onAutoForward": "openPreview"
